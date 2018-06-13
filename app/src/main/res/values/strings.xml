@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">EmergencySMS</string>
+    <string name="firstTimeMessage">This application sends an emergency SMS message to each contact added to your contact list. Please use in emergency situations only.</string>
+    <string name="exitButtonText">Enter</string>
+    <string name="firstTimeIntro">Welcome to EmergencySMS</string>
+    <string name="contactsButtonText">Contacts</string>
+    <string name="messageButtonText">Messages</string>
+    <string name="addContactButtonText">Add Contact</string>
+    <string name="addContactHint">Phone No.</string>
+    <string name="contactActivityInfo">Add phone numbers to your contact list. All contacts entered recieve the SMS</string>
+    <string name="contactListText">Contact List</string>
+    <string name="appwidget_text">SOS</string>
+    <string name="add_widget">Add widget</string>
+    <string name="sirenContentDesc">Siren</string>
+    <string name="addMessageButtonText">Add Message</string>
+    <string name="addMessageHint">New Message</string>
+    <string name="messageActivityInfo">Choose which message is sent to your contacts. You can also create a custom message.</string>
+    <string name="emergencyMessage1">HELP!</string>
+    <string name="emergencyMessage2">I\'m in trouble! Send help.</string>
+</resources>
